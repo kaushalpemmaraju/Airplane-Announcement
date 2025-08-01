@@ -1,0 +1,14 @@
+# Ignore all generated audio files (mp3)
+*.mp3
+
+# Ignore other typical Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+.envrc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
